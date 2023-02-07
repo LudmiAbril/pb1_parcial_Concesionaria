@@ -6,7 +6,7 @@ import dominio.Coche;
 import dominio.Concesionaria;
 
 public class Prueba_concesionaria {
-	//  PUEDE QUE ESTE PARCIAL ESTE MEDIO FLOJO POR QUE EL ENUNCIADO NO ES MUY CLARO, HICE LO QUE ENTENDI ÅP\_(Éc)_/ÅP
+	//  PUEDE QUE ESTE PARCIAL ESTE MEDIO FLOJO POR QUE EL ENUNCIADO NO ES MUY CLARO, HICE LO QUE ENTENDI.
 
 	public static void main(String[] args) {
        Scanner teclado=new Scanner(System.in);
